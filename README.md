@@ -1,3 +1,3 @@
-**Tesla Clone with React JS!**
+**Tesla Clone with React JS! (discontinued)**
 
 Demo: https://teslaclone-can.herokuapp.com
